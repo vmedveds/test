@@ -7,15 +7,15 @@
 
 ### Commands to work with it
 
-* Add to repository 
+#### **Add to repository** 
 
 - `git add 'file name'` or . -> dot means to add whole directory
 
-* Commit with message
+#### **Commit with message**
 
 - `git commit -m 'message'`
 
-* Pushing into ur main brach (like saving)
+#### **Pushing into ur main brach (like saving)**
 
 - `git push`
 
